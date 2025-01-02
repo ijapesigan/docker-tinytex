@@ -18,4 +18,7 @@ apt_install                    \
     libcurl4-openssl-dev       \
     libxml2-dev                \
     libssl-dev                 \
-    libfontconfig1-dev
+    libfontconfig1-dev         \
+    libharfbuzz-dev            \
+    libfribidi-dev             \
+    libgit2-dev
