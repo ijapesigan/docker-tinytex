@@ -21,4 +21,8 @@ apt_install                    \
     libfontconfig1-dev         \
     libharfbuzz-dev            \
     libfribidi-dev             \
-    libgit2-dev
+    libgit2-dev                \
+    libfreetype6-dev           \
+    libpng-dev                 \
+    libtiff5-dev               \
+    libjpeg-dev
