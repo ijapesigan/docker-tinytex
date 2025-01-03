@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# based on https://raw.githubusercontent.com/rocker-org/rocker-versioned2/master/scripts/install_tidyverse.sh
-
 set -e
 
 # a function to install apt packages only if they are not installed
